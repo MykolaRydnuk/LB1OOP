@@ -1,0 +1,17 @@
+C:\Users\kazmur\source\repos\LB1_OOP\LB1_OOP\bin\Debug\net7.0\LB1_OOP.exe
+C:\Users\kazmur\source\repos\LB1_OOP\LB1_OOP\bin\Debug\net7.0\LB1_OOP.deps.json
+C:\Users\kazmur\source\repos\LB1_OOP\LB1_OOP\bin\Debug\net7.0\LB1_OOP.runtimeconfig.json
+C:\Users\kazmur\source\repos\LB1_OOP\LB1_OOP\bin\Debug\net7.0\LB1_OOP.dll
+C:\Users\kazmur\source\repos\LB1_OOP\LB1_OOP\bin\Debug\net7.0\LB1_OOP.pdb
+C:\Users\kazmur\source\repos\LB1_OOP\LB1_OOP\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\kazmur\source\repos\LB1_OOP\LB1_OOP\obj\Debug\net7.0\LB1_OOP.csproj.AssemblyReference.cache
+C:\Users\kazmur\source\repos\LB1_OOP\LB1_OOP\obj\Debug\net7.0\LB1_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kazmur\source\repos\LB1_OOP\LB1_OOP\obj\Debug\net7.0\LB1_OOP.AssemblyInfoInputs.cache
+C:\Users\kazmur\source\repos\LB1_OOP\LB1_OOP\obj\Debug\net7.0\LB1_OOP.AssemblyInfo.cs
+C:\Users\kazmur\source\repos\LB1_OOP\LB1_OOP\obj\Debug\net7.0\LB1_OOP.csproj.CoreCompileInputs.cache
+C:\Users\kazmur\source\repos\LB1_OOP\LB1_OOP\obj\Debug\net7.0\LB1_OOP.csproj.CopyComplete
+C:\Users\kazmur\source\repos\LB1_OOP\LB1_OOP\obj\Debug\net7.0\LB1_OOP.dll
+C:\Users\kazmur\source\repos\LB1_OOP\LB1_OOP\obj\Debug\net7.0\refint\LB1_OOP.dll
+C:\Users\kazmur\source\repos\LB1_OOP\LB1_OOP\obj\Debug\net7.0\LB1_OOP.pdb
+C:\Users\kazmur\source\repos\LB1_OOP\LB1_OOP\obj\Debug\net7.0\LB1_OOP.genruntimeconfig.cache
+C:\Users\kazmur\source\repos\LB1_OOP\LB1_OOP\obj\Debug\net7.0\ref\LB1_OOP.dll

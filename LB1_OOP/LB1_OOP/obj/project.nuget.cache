@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YBwfQt3a2j0gWv8boWKa+bS7BSFLdVZmqhritju/PrvLBhCgAEhvDLoMp1HrighYQAbweuoOz8vdbr0lk5Kl0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kazmur\\source\\repos\\LB1_OOP\\LB1_OOP\\LB1_OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kazmur\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
